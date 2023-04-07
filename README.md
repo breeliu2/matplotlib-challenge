@@ -4,3 +4,4 @@ This project utilized what we've learned in Matplotlib to generate all the table
 
 ##Tasks
 Import and display the number of unique mice IDs. Check the data for any IDs with duplicate time points and remove any data associated with that mouse ID. Clean the data and display the updated number of unique mice IDs in a new DataFrame. 
+<img width="484" alt="Screenshot 2023-04-06 at 10 44 37 PM" src="https://user-images.githubusercontent.com/124847109/230536750-0d517f11-0812-4b38-9655-494211246738.png">
